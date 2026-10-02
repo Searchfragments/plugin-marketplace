@@ -398,7 +398,7 @@
     },
     {
       "name": "search-fragments",
-      "description": "Search Fragments resolves half-remembered books, films, songs and people into a cited answer, a shortlist or a no, and checks single factual claims against cited web sources. Connects to the hosted Search Fragments MCP server; no account needed.",
+      "description": "Turn half-remembered fragments into a named answer: songs, films, books, TV, people, historical events, inventions, sport moments, places, art and culture. Also checks short factual claims. Every answer cites public sources. Free, no account needed.",
       "category": "productivity",
       "source": {
         "source": "url",
